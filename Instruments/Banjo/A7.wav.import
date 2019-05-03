@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/A7.wav-7d6e07453d2ed3fee6ffab9f1d4c95a6.sample"
+
+[deps]
+
+source_file="res://Instruments/Banjo/A7.wav"
+dest_files=[ "res://.import/A7.wav-7d6e07453d2ed3fee6ffab9f1d4c95a6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

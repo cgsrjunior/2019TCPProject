@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/C2.wav-603463a0270b86eae01573f015ee5384.sample"
+
+[deps]
+
+source_file="res://Instruments/ElectricGuitar/C2.wav"
+dest_files=[ "res://.import/C2.wav-603463a0270b86eae01573f015ee5384.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
