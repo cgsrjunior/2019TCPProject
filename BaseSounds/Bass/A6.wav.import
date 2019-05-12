@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/A6.wav-51c64eafa4d8e105cee3f8b805dc47d5.sample"
+
+[deps]
+
+source_file="res://BaseSounds/Bass/A6.wav"
+dest_files=[ "res://.import/A6.wav-51c64eafa4d8e105cee3f8b805dc47d5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

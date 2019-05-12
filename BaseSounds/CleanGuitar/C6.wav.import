@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/C6.wav-1bbdf0f395b10db9b75be5e39805a8d5.sample"
+
+[deps]
+
+source_file="res://BaseSounds/CleanGuitar/C6.wav"
+dest_files=[ "res://.import/C6.wav-1bbdf0f395b10db9b75be5e39805a8d5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

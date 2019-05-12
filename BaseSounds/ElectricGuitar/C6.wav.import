@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/C6.wav-3b6f94bce91ed6d2c5fd550a3877bbeb.sample"
+
+[deps]
+
+source_file="res://BaseSounds/ElectricGuitar/C6.wav"
+dest_files=[ "res://.import/C6.wav-3b6f94bce91ed6d2c5fd550a3877bbeb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

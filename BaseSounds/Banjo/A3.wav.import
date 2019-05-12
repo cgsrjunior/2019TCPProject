@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/A3.wav-852a391ca00cb0408477688ae99e64c4.sample"
+
+[deps]
+
+source_file="res://BaseSounds/Banjo/A3.wav"
+dest_files=[ "res://.import/A3.wav-852a391ca00cb0408477688ae99e64c4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
